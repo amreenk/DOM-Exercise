@@ -1,0 +1,1 @@
+Document Object Model (DOM) exercise shows ways to use DOM.
